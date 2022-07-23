@@ -1,6 +1,6 @@
 - Hi, I’m @ljpurcell 👋
 
-- __Interests:__ I’m quite curious, so I tend to become interested in practically _everything_. I'm a life-long bookworm, enjoy philophsical conversations, and spend a lot of time thinking about how to think better. Generally speaking, I'm interested in bettering myself by becoming more knowledgeable, rational, and moral. I have the intent of then using these virtues to help the world.
+- __Interests:__ I’m quite curious, so I tend to become interested in practically _everything_. I'm a life-long bookworm, enjoy philosophical conversations, and spend a lot of time thinking about how to think better. Generally speaking, I'm interested in bettering myself by becoming more knowledgeable, rational, and moral. I have the intent of then using these virtues to help the world.
   
 - __What brings me here:__ While I have many interest, some interests are more intense than others. Currently, programming and machine learning top that list.
   I taught myself some basic programming during COVID-19 lockdowns, and fell so in love with it that I decided to re-enroll at university
