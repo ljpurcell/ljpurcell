@@ -10,9 +10,7 @@ Hi, I’m @ljpurcell 👋
 - __Currently learning:__ A variety of things -- anything that will hopefully aid my development and long-term potential. 
   This includes becoming a better programmer through exposure to new problems, programming languages, and paradigms; learning more about how computers work and how they can be better utilised; increasing my machine learning and data science skillset; and other foundational topics like mathematics and statistics.
  
-- __Goals:__ I would like to start contributing to open-source projects and hopefully get myself into some software developer/machine learning engineer internships (so if you know of anything suitable, please let me know :grin:).
-A lot of my learning takes place in a solo, isolated manner and I would love to begin learning from others and gaining "real-world" experience. 
-I think this would be very additive to my academic efforts.
+- __Goals:__ I would like to get myself into a software developer/machine learning engineer role as soon as possible (so if you know of anything suitable, please let me know :grin:). A lot of my learning takes place in a solo, isolated manner and I would love to begin learning from others and gaining "real-world" experience. I think this would be very additive to my academic efforts.
 
 - __Contact:__ You can connect with me via [Instagram](https://www.instagram.com/l.j.purcell/), [LinkedIn](https://www.linkedin.com/in/lyndon-purcell/), 
 [email](mailto:lyndonpurcell23@gmail.com), or check out my blog [ThereforeThink](https://thereforethink.blog/).
