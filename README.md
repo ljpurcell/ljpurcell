@@ -2,7 +2,7 @@ Hi, I’m @ljpurcell 👋
 
 - __General:__ For as long as I can remember I have been interested in improving myself. I try to end each day knowing I have learned a new skill, made the world a little better or understand reality more deeply.
 
-- __Technical interests:__ I find the most joy building automation tools or working on the the back-end of projects. I tend to be most intrigued, and motivated, by efficincy -- as opposed to crafting the most beautiful user-interface. While I still enjoy fullstack programming, I think speed and performance are often underrated facets of developing a good user-exeperience. I enjoy being able to focus my efforts on that.
+- __Technical interests:__ I find the most joy building automation tools or working on the the back-end of projects. I am intrigued, and motivated, by efficincy -- as opposed to crafting the most beautiful user-interface. While I still enjoy fullstack programming, I think speed and performance are often underrated facets of developing a good user-exeperience. I enjoy being able to focus my efforts on that.
 
 - __Work:__ I am a software developer at [OK200](https://ok200.net/) in Melbourne. It's good fun!
 
