@@ -8,7 +8,7 @@ Hi, I’m @ljpurcell 👋
 
 - __Currently learning:__ Anything that will aid my development and long-term potential as a programmer.
 
-- __When I'm not programming:__ I am thinking about programming, reading a book, watching cartoons, writing for my blog, or potentially with my friends at a rave because, for some reason, _I genuinely like the music_.
+- __When I'm not programming:__ I am thinking about programming, reading a book, watching cartoons, writing for my blog, or potentially with my friends at a rave because _I genuinely like the music_.
 
 - __Contact:__ You can connect with me via [Instagram](https://www.instagram.com/l.j.purcell/), [LinkedIn](https://www.linkedin.com/in/lyndon-purcell/), 
-[email](mailto:ljpurcell.dev@gmail.com), or check out my blog [ThereforeThink](https://thereforethink.blog/).
+[email](mailto:ljpurcell.dev@gmail.com), or check out my blog [ThereforeThink](https://thereforethink.blog/) (currently rebuilding).
