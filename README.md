@@ -10,5 +10,5 @@ Hi, I’m @ljpurcell 👋
 
 - __When I'm not programming:__ I am thinking about programming, reading a book, watching cartoons, writing for my blog, or potentially with my friends at a rave because _I genuinely like the music_.
 
-- __Contact:__ You can connect with me via [Instagram](https://www.instagram.com/l.j.purcell/), [LinkedIn](https://www.linkedin.com/in/lyndon-purcell/), 
-[email](mailto:ljpurcell.dev@gmail.com), or check out my blog [ThereforeThink](https://thereforethink.blog/) (currently rebuilding).
+- __Contact:__ You can connect with me via [Instagram](https://www.instagram.com/l.j.purcell/), [LinkedIn](https://www.linkedin.com/in/lyndon-purcell/), or 
+[email](mailto:ljpurcell.dev@gmail.com).
