@@ -1,5 +1,7 @@
 Hi, I’m @ljpurcell 👋
 
+![Leetcode](https://leetcode-badge-sage.vercel.app/badge/ljpurcell?theme=dark)
+
 - __General:__ Self-improvement and rationality enthusiast. 
 
 - __Technical interests:__ I find the most joy building tools, automating tasks, or working on the server-side. In my personal time I mostly write Go and Python. 
