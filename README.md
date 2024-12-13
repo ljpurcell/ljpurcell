@@ -4,13 +4,7 @@ Hi, I’m @ljpurcell 👋
 
 - __Technical interests:__ Go, NeoVim, data structures and algorithms. I enjoy building tools and automating tasks.
 
-- __Work:__ I am a software developer at [OK200](https://ok200.net/) in Melbourne. It's good fun!
-
-- __Currently learning:__ Anything that will aid my development and long-term potential as a programmer. Mostly focusing on Leetcode and Go fundamentals at the moment. 
-
-<p align="center">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/ljpurcell?theme=dark" />
-</p>
+- __Currently learning:__ Anything that will aid my development and long-term potential as a programmer.
 
 - __Portfolio & Blog:__ [ljpurcell.com](https://ljpurcell.com)
 
