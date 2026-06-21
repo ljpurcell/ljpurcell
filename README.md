@@ -1,16 +1,9 @@
-Hi, I’m @ljpurcell 👋
+### Hi, I'm Lyndon 👋
 
-- __General:__ Self-improvement and rationality enthusiast. 
+Senior software engineer in Melbourne, working on developer tooling — static analysers, language servers and formatters. I like doing the kind of work that quietly makes a whole team faster.
 
-- __Technical interests:__ Go, NeoVim, data structures and algorithms. I enjoy building tools and automating tasks.
+Mostly **Go**, with **Python** and **JavaScript** alongside. Neovim and the command line.
 
-- __Currently learning:__ Anything that will aid my development and long-term potential as a programmer.
+Lately I'm building **Stem**, a coaching platform (Go API · SvelteKit · Flutter), and trying to make sense of the world through writing.
 
-- __Portfolio & Blog:__ [ljpurcell.com](https://ljpurcell.com)
-
-- __Contact:__
-<br> [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ljpurcell/)
-<br> [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ljpurcell.dev@gmail.com)
-
-
-
+[Website](https://ljpurcell.com) · [Blog](https://dongerous.com) · [LinkedIn](https://www.linkedin.com/in/ljpurcell/) · [Email](mailto:ljpurcell.dev@gmail.com)
